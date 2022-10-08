@@ -6,6 +6,8 @@ public class CourseDetails {
 		System.out.println("Course name is Java Selenium");
 		System.out.println("student name is Deepthi");
 		System.out.println("i have completed my task");
+		System.out.println("Branch is deepthi");
+		System.out.println("Branch is deepthi new");
 
 
 	}
